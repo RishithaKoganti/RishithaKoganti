@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RishithaKoganti
 - 👀 I’m interested in ...coding,watching films
-- 🌱 I’m currently learning ...C language
+- 🌱 I’m currently learning ...FORNTEND WED DEVELOPMENT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
